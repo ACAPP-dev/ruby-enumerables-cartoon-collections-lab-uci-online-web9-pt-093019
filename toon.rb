@@ -26,7 +26,7 @@ def find_the_cheese(array) # code an argument here
       p cheese_types[i]
       return cheese_types[i]
     end
-    p "below if #{cheese_types[i]"
+    p "below if #{cheese_types[i]}"
     p "false "
     i +=1 
   end
