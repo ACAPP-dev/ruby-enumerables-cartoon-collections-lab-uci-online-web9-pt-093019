@@ -51,7 +51,7 @@ end
  veggies = ["carrot", "cucumber", "pepper"]
 calls_long = ["axe", "earth", "wind", "fire"]
 calls_short = ["wind", "fire", "tree", "axe", "code"]
-contains_cheddar = ["banana", "cheddar", "sock"]
+contains_cheddar = ["banana", "gouda", "sock"]
 
 
  #p roll_call_dwarves(dwarves)
